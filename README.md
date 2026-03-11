@@ -31,6 +31,6 @@ Personal Development: An easy-to-use tool for journaling and monitoring daily mo
 
 
 
-<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/a888c10a-a88c-476b-9973-b5416dfccf32" />
+
 
 
